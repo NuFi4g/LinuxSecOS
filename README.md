@@ -1,2 +1,2 @@
 # LinuxSecOS
-Linnux's visual security management and intrusion response application.
+Linux's visual security management and intrusion response application.
