@@ -1,5 +1,3 @@
+## Step&Time
 
-# Introduction
-
-# Solution
-
++ Init-UI   2021-01-10
