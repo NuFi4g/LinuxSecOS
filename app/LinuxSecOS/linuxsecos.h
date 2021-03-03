@@ -15,7 +15,13 @@ public:
     LinuxSecOS(QWidget *parent = nullptr);
     ~LinuxSecOS();
 
+private slots:
+    void on_pb_refresh_clicked();
+
+    void on_pb_kill_clicked();
+
 private:
     Ui::LinuxSecOS *ui;
+    void init();
 };
 #endif // LINUXSECOS_H
