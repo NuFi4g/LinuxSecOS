@@ -11,7 +11,6 @@ CONFIG += c++11
 
 
 SOURCES += \
-    hostinfo.cpp \
     main.cpp \
     linuxsecos.cpp \
     processinfo.cpp \
@@ -19,7 +18,6 @@ SOURCES += \
     statusinfo.cpp
 
 HEADERS += \
-    hostinfo.h \
     linuxsecos.h \
     processinfo.h \
     securitymanage.h \
